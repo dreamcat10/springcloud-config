@@ -1,2 +1,2 @@
 config
-  info: config-dev.yml
+  info: "master branch config-dev version = 1.0"
